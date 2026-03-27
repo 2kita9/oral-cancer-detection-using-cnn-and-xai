@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Large files (optional)
+Dataset/
+*.h5
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
